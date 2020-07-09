@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+I am a tenure-Track Assistant Professor :neckbeard: in the Computer Science department at the West Chester University of Pennsylvania. I graduated from University at Buffalo - SUNY in the Department of Computer Science and Engineering. [[Link](https://darlingtree.com/)]
+
+My research interest broadly focuses on exploring novel ideas :crystal_ball::crystal_ball: and techniques to solve practical problems and security issues :bomb::bomb: for mobile sensing and cyber-physical systems. In the context of mobile sensing systems :telephone:, I am interested in smartphone-enabled :iphone: crowdsourcing approaches that can help build large-scale information infrastructures conveniently at a very low cost. I also study cyber-physical system security from the physical layer:electric_plug:, leveraging various related characteristics to enable inherently secure and dependable wireless communications:mailbox::mailbox:. 
+
+I am also a Senior Member of IEEE :bowtie: and a member of ACM.
+
+
 <!--
 **quake0day/quake0day** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
