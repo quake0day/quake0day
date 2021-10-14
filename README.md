@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am a tenure-Track Assistant Professor :neckbeard: in the Computer Science department at the West Chester University of Pennsylvania. I graduated from University at Buffalo - SUNY in the Department of Computer Science and Engineering. [[Link](https://darlingtree.com/)]
+I am an Associate Professor :neckbeard: in the Computer Science department at the West Chester University of Pennsylvania. I graduated from University at Buffalo - SUNY in the Department of Computer Science and Engineering. [[Link](https://darlingtree.com/)]
 
 My research interest broadly focuses on **exploring novel ideas :crystal_ball::crystal_ball: and techniques to solve practical problems and security issues :bomb::bomb: for mobile sensing and cyber-physical systems**. 
 
