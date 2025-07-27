@@ -1,12 +1,12 @@
 ### Hi there 👋
 
-I am an Associate Professor :neckbeard: in the Computer Science department at the West Chester University of Pennsylvania. I graduated from University at Buffalo - SUNY in the Department of Computer Science and Engineering. [[Link](https://darlingtree.com/)]
+I am a Full Professor :neckbeard: in the Computer Science department at the West Chester University of Pennsylvania. I graduated from University at Buffalo - SUNY in the Department of Computer Science and Engineering. [[Link](https://darlingtree.com/)]
 
-My research interest broadly focuses on **exploring novel ideas :crystal_ball::crystal_ball: and techniques to solve practical problems and security issues :bomb::bomb: for mobile sensing and cyber-physical systems**. 
+My current research interests focus primarily on integrating artificial intelligence (AI) with educational technologies to enhance personalized learning experiences and optimize instructional methodologies. Additionally, I am actively exploring novel approaches that combine voice transmission technologies with advanced AI models to improve speech-based human-computer interactions and communication systems.
 
-In the context of mobile sensing systems :telephone:, I am interested in smartphone-enabled :iphone: crowdsourcing approaches that can help build large-scale information infrastructures conveniently at a very low cost. I also study cyber-physical system security from the physical layer:electric_plug:, leveraging various related characteristics to enable inherently secure and dependable wireless communications:mailbox::mailbox:. 
+Previously, my research has extensively covered innovative solutions in mobile sensing and smartphone-enabled crowdsourcing technologies, aiming at building cost-effective and scalable information infrastructures. My scholarly contributions have appeared in highly-regarded journals and conferences such as ACM SenSys, IEEE ICDCS, IEEE MASS, IEEE Transactions on Mobile Computing (TMC), and IEEE IoT Journal. Notably, my paper on human voice detection technologies was awarded the Best Student Paper Award at the IEEE ICDCS conference in 2017.
 
-I am also a Senior Member of IEEE :bowtie: and a member of ACM.
+I am an IEEE Senior Member and an active member of ACM.
 
 
 <!--
